@@ -13,5 +13,5 @@ The registration link is missing from the spec sheet, I have included this secti
 
 ## Styling
 
-I used the colour pallet from the header image to pick the colours for the rest of the site.  I wanted to avoid any loud distracting colours that would take away from the content.  The soothing light blue colour highlights the 3-column section and using the Adobe colour tool I selected a complementary colour to highlight the important Heart Check section.  I wanted to avoid any distracting animations so I have used a simple fade in animation for each section as the user scrolls down the page.  The animation comes from the wow.js and animate.js plugins.
+I used the colour pallet from the header image to pick the colours for the rest of the site.  I wanted to avoid any loud distracting colours that would take away from the content.  The soothing light blue colour highlights the 3-column section and using the Adobe colour tool I selected a complementary colour to highlight the important Heart Check section.  I wanted to avoid any distracting animations so I have used a simple fade in animation for each section as the user scrolls down the page.  The animation comes from the wow.js and animate.js plugins.  I am using the font-awesome plugin and the Lato font on the page for clear easily readable text.
 
