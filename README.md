@@ -10,7 +10,7 @@ For the "Stuck for exercise ideas" section I have adjusted the layout from the s
 
 ### Note:
 
-The registration link is missing from the spec sheet, I have included this section in the code but have commented it out until the info is available.  The section is highlighted in the code so it can easily be updated by myself or another member of the team. 
+The registration link is missing from the spec sheet, I have included this section in the code but have commented it out until the info is available.  The section is highlighted in the code so it can easily be updated by myself or another member of the team.  Also in this column the name (Name Surname) is used for both the "Hosted by" and "my learning support contact" I have left these in but they clearly need to be update to the correct names.  I have left notes in the code highlighting this. 
 
 
 ## Styling
