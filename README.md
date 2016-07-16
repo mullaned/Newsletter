@@ -6,6 +6,8 @@ For this newsletter I am using Bootstrap to handle the layout of the page, I hav
 
 The page is fully responsive and will adapt to the screen size the client is using to view the page.  The layout changes from multi column viewing on larger devices to single column on smaller devices.
 
+For the "Stuck for exercise ideas" section I have adjusted the layout from the spec sheet to better fit when viewing on larger devices, I have put the lead image to the left of the list.  On smaller devices the image will be above the list.  I have also used a interactive list that the user can click on the reveal the content under each heading.
+
 ### Note:
 
 The registration link is missing from the spec sheet, I have included this section in the code but have commented it out until the info is available.  The section is highlighted in the code so it can easily be updated by myself or another member of the team. 
